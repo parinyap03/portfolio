@@ -2,6 +2,7 @@
 - Skills
 - Lab experian
 - Project experian
+- Document about testcase and design test
 ## Skills
 ### Manual testing
 - can perform manual functional and usability testing of web applications
@@ -23,3 +24,5 @@
 ## Project experian
 - [Morse code sound playing application using Kotlin](https://github.com/parinyap03/morseCode.git)
 - [Selling houses application using map API](https://github.com/parinyap03/house-price.git)
+## Document about testcase and design test
+You can download my document as [a PDF from my Google Drive.](https://drive.google.com/drive/folders/1E9E470aq28DMKUbc_sDBMUVv2SFCj92i?usp=sharing)
