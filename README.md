@@ -5,7 +5,7 @@
 ## Skills
 ### Manual testing
 - can perform manual functional and usability testing of web applications
-- gained hands-on experience through non-functional testing (usability testing) on [website].(https://www.chipublib.org/locations/15/)https://www.chipublib.org/locations/15/
+- gained hands-on experience through non-functional testing (usability testing) on [website](https://www.chipublib.org/locations/15/)https://www.chipublib.org/locations/15/
 ### Test documentation
 - can create test cases and checklists and know how and in which situations to use them effectively
 ### Test analysis & design
@@ -22,4 +22,4 @@
 - Non-functional testing
 ## Project experian
 - [Morse code sound playing application using Kotlin](https://github.com/parinyap03/morseCode.git)
-- [Selling houses application using map API](https://github.com/parinyap03/house-price.git)https://github.com/parinyap03/house-price.git
+- [Selling houses application using map API](https://github.com/parinyap03/house-price.git)
