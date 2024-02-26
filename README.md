@@ -1,7 +1,7 @@
 # Portfolio
 - Skills
-- Lab experian
-- Project experian
+- Lab experience
+- Project experience
 - Document about testcase and design test
 ## Skills
 ### Manual testing
@@ -11,7 +11,7 @@
 - can create test cases and checklists and know how and in which situations to use them effectively
 ### Test analysis & design
 - can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
-## Lab experian
+## Lab experience
 - Boundary value testing
 - Equivalence class testing
 - Decision table
@@ -21,7 +21,7 @@
 - User acceptance test
 - Test-driven development
 - Non-functional testing
-## Project experian
+## Project experience
 - [Morse code sound playing application using Kotlin](https://github.com/parinyap03/morseCode.git)
 - [Selling houses application using map API](https://github.com/parinyap03/house-price.git)
 ## Document about testcase and design test
